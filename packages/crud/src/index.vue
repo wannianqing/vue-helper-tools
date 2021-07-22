@@ -103,7 +103,7 @@
 </template>
 <script>
 export default {
-    name:'CustomTable',
+    name:'KsCrud',
     props:{
         tableOpts:{
             type:Object,
