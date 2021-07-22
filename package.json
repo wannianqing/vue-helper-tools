@@ -1,0 +1,54 @@
+{
+  "_from": "vue-helper-tools",
+  "_id": "vue-helper-tools@1.0.9",
+  "_inBundle": false,
+  "_integrity": "sha512-X5GO8VA5a8m3x8sIAkkj+Wyg+BnsWymHvAsNG7F4IUL+0jkWOA96Yt/LJkuGPitT3ppHgHqFFnK1ns/UHz33vQ==",
+  "_location": "/vue-helper-tools",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "vue-helper-tools",
+    "name": "vue-helper-tools",
+    "escapedName": "vue-helper-tools",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/vue-helper-tools/-/vue-helper-tools-1.0.9.tgz",
+  "_shasum": "1499f114c6dce8167dc1b263ec736457af76472a",
+  "_spec": "vue-helper-tools",
+  "_where": "D:\\course\\npm-file",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "@vue/compiler-sfc": "^3.1.5",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-buble": "^0.19.8",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-filesize": "^9.1.1",
+    "rollup-plugin-json": "^4.0.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-replace": "^2.2.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "rollup-plugin-vue": "^5.1.9",
+    "vue": "^2.6.12",
+    "vue-template-compiler": "^2.6.12"
+  },
+  "deprecated": false,
+  "description": "![image-20210721164722630](D:\\vue-project\\01fengzhuang-pj\\组件文档.assets\\image-基础表格.png)",
+  "keywords": [],
+  "license": "ISC",
+  "main": "lib/index.esm.js",
+  "name": "vue-helper-tools",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "version": "1.0.9"
+}
